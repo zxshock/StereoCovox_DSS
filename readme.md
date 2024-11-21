@@ -3,3 +3,5 @@ Older project (from 2015) which started as a "DSS dongle" which one would put be
 Prototype in 2018 has a number of errors and bugs (see prev.png), proposed fixes were never prototyped. Maybe some day.
 
 A device suspeciously close with some additional features is also available commercially on eBay.
+
+Video of earlier pre-prototype in action (can be seen at the very end) here: https://www.youtube.com/watch?v=EoGCf69QLJc
